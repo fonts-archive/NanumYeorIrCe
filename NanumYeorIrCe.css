@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumYeorIrCe';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumYeorIrCe/NanumYeorIrCe.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumYeorIrCe/NanumYeorIrCe.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumYeorIrCe/NanumYeorIrCe.ttf') format('truetype');
+}
